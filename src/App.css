@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.info-contact{
+  border: 1px solid transparent;
+  margin: auto;
+  height: 20.9rem;
+  width: 30rem;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.page-of{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.748);
+}
+.page{
+  border: 1px solid transparent;
+  width: 10rem;
+  margin: auto;
+  margin-top: 2rem;
+  background-color: rgba(92, 52, 52, 0.196);
+  border-radius: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

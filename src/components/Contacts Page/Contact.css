@@ -1,0 +1,43 @@
+.main{
+    width: 30%;
+    height: 400px;
+    margin-left: 37%;
+    margin-top: 3%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.name{
+    margin-top: 10px;
+    margin-left: 30%;
+    
+  }
+  .username{
+  
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 21%;
+  }
+  .input{
+    margin-left: 16%;
+  }
+  .button{
+    margin-top: 10px;
+    margin-left: 10%;
+    background-color: aliceblue;
+  }
+  .button:hover{
+    background-color: aqua;
+    color: white;
+  }
+  .div{
+   
+    height: auto;
+    width: auto;
+    margin-top: 15%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .h1{
+    margin-left: 42%;
+  }
+  
